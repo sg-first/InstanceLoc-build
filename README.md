@@ -24,4 +24,4 @@ python setup.py build_ext
 
 训练数据
 ------------
-图片放置于`data_path/imagenet/train`，标注放置于`annotation_path/train.txt`（具体参考一下别人的例子）
+图片放置于`data_path/imagenet/train`，标注放置于`annotation_path/train.txt`（具体参考一下例子，和imagenet数据格式一样的）
