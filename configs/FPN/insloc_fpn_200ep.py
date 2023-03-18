@@ -1,6 +1,6 @@
 # Data cfg
 dataset_type = 'ImageNetDataset'
-data_root = 'your_data_path/imagenet/train'  # data path
+data_root = 'data_path/imagenet/train'  # data path
 
 base_scale = (256, 256)
 fore_scale = (128, 255)

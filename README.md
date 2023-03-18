@@ -21,3 +21,7 @@ Rebuild
 python setup.py build_ext
 ```
 编译完成后需要手动把so复制到对应目录
+
+训练数据
+------------
+图片放置于`data_path/imagenet/train`，标注放置于`annotation_path/train.txt`（具体参考一下别人的例子）
